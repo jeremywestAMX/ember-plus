@@ -20,8 +20,6 @@
 #ifndef __LIBEMBER_GLOW_COMMANDTYPE_HPP
 #define __LIBEMBER_GLOW_COMMANDTYPE_HPP
 
-//SimianIgnore
-
 namespace libember { namespace glow
 {
     /**
@@ -78,14 +76,6 @@ namespace libember { namespace glow
             {}
 
             /**
-             * Initializes a new instance.
-             * @param value The value to initialize this instance with.
-             */
-            explicit CommandType(value_type value)
-                : m_value(value)
-            {}
-
-            /**
              * Returns the value.
              * @return The value.
              */
@@ -99,8 +89,6 @@ namespace libember { namespace glow
     };
 }
 }
-
-//EndSimianIgnore
 
 #endif  // __LIBEMBER_GLOW_COMMANDTYPE_HPP
 

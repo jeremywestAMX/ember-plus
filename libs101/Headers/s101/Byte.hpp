@@ -20,8 +20,6 @@
 #ifndef __LIBS101_BYTE_HPP
 #define __LIBS101_BYTE_HPP
 
-//SimianIgnore
-
 namespace libs101 
 {
     /**
@@ -50,14 +48,6 @@ namespace libs101
             {}
 
             /**
-             * Initializes a new instance.
-             * @param value The value to initialize this instance with.
-             */
-            explicit Byte(value_type value)
-                : m_value(value)
-            {}
-
-            /**
              * Returns the value.
              * @return The value.
              */
@@ -73,8 +63,6 @@ namespace libs101
             value_type m_value;
     };
 }
-
-//EndSimianIgnore
 
 #endif  // __LIBS101_BYTE_HPP
 

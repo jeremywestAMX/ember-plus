@@ -22,8 +22,6 @@
 
 #include "../ber/Tag.hpp"
 
-//SimianIgnore
-
 namespace libember { namespace glow
 { 
     /**
@@ -67,14 +65,6 @@ namespace libember { namespace glow
         {}
 
         /**
-         * Initializes a new instance.
-         * @param value The value to initialize this instance with.
-         */
-        explicit ParameterProperty(value_type value)
-            : m_value(value)
-        {}
-
-        /**
          * Returns the value.
          * @return The value.
          */
@@ -83,12 +73,12 @@ namespace libember { namespace glow
             return m_value;
         }
 
-    private:
+        /**
+         * Contains the property value passed to the constructor. 
+         */
         value_type m_value;
     };
 }
 }
-
-//EndSimianIgnore
 
 #endif  // __LIBEMBER_GLOW_PARAMETERPROPERTY_HPP

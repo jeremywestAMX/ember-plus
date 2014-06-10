@@ -62,14 +62,6 @@ namespace libember { namespace glow
                 : m_value(value)
             {}
 
-            /**
-             * Initializes a new instance.
-             * @param value The value to initialize this instance with.
-             */
-            explicit FunctionProperty(value_type value)
-                : m_value(value)
-            {}
-
             /** 
              * Returns the value.
              * @return The value.
@@ -80,6 +72,7 @@ namespace libember { namespace glow
             }
 
         private:
+            /** Contains the property value passed to the constructor. */
             value_type m_value;
     };
 }
