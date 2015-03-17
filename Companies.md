@@ -1,0 +1,30 @@
+### The following companies are using Ember+: ###
+
+  * [Lawo](http://www.lawo.de)
+  * [DSA Volgmann](http://www.dsa-volgmann.de)
+  * [L-S-B Broadcast Technologies](http://www.l-s-b.de)
+  * [ALC NetworX](http://www.alcnetworx.de)
+  * [LES Switzerland](http://www.lawo.ch)
+  * [Jünger](http://www.junger-audio.com)
+  * [Orban](http://www.orban.com)
+  * [Riedel](http://www.riedel.net)
+  * [Mosart](http://www.mosart.no)
+  * [BFE](http://www.bfe-systemhaus.de)
+  * [Stagetec](http://www.stagetec.com)
+  * [Ihse](http://www.ihse.de)
+  * BY-Systems
+  * [Trilogy](http://www.trilogycomms.com)
+  * [EVS](http://www.evs.com)
+  * [Solid State Logic](http://solid-state-logic.com)
+  * [SLG Broadcast](http://www.slgbroadcast.com)
+  * [coolux Media Systems](http://www.coolux.de)
+  * [DHD Audio](http://www.dhd-audio.de)
+  * [GrassValley (Ignite)](http://www.grassvalley.com/products/ignite)
+  * [Evertz (Magnum)](http://www.grassvalley.com/products/ignite)
+  * [Mandozzi](http://www.mandozzi.ch/en/index.php)
+  * [Dimetis](http://www.dimetis.de/)
+
+### The following companies are said to use Ember+: ###
+  * [Studer](http://www.studer.ch)
+  * [Skyline (DataMiner)](http://www.skyline.be)
+  * [NTP](http://www.ntp.dk)
